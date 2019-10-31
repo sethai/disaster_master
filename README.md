@@ -8,7 +8,7 @@ Service aggregates multiple nature disasters APIs (earthquakes, floods, nature f
 * Python
 * Flask
 ## Frontend
-* React
+* React or Vue - will see ;)
 
 # TODO list
 * initial project structure

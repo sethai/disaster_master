@@ -3,8 +3,12 @@
         <div class="row">
             <div class ="col-sm-10">
                 <h1>Disaster Master</h1>
-                <br><br>
-                <button type="button" class="btn btn-outline-primary">Refresh</button>
+                <br>
+                <input type="checkbox" checked v-model="sel_disaster" value="earthquake">earthquakes
+                <br>
+                <button type="submit" @click="reload()" class="btn btn-outline-primary">
+                  Refresh
+                </button>
                 <br><br>
                 <table class="table table-hover">
                     <thead>
@@ -36,12 +40,16 @@ export default {
   data() {
     return {
       disasters: [],
+      sel_disaster: [],
     };
   },
   methods: {
     getDisasters() {
       const path = 'http://localhost:5000/disasters';
-      axios.get(path)
+      const params = {
+        type: this.sel_disaster.toString(),
+      };
+      axios.get(path, { params })
         .then((res) => {
           this.disasters = res.data.disasters;
         })
@@ -50,8 +58,12 @@ export default {
           console.error(error);
         });
     },
+    reload() {
+      this.getDisasters();
+    },
   },
   created() {
+    this.sel_disaster.push('earthquake');
     this.getDisasters();
   },
 };

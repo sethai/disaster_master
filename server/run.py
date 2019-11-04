@@ -1,35 +1,13 @@
 ## main app
 
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 from flask_cors import CORS
+import json
+from models import *
 
 app = Flask(__name__)
 
 CORS(app, resources={r'/*': {'origins': '*'}})
-
-
-# test work will be removed
-DISASTERS = [
-    {
-        'date': '1983.07.09 19:30',
-        'type': 'earthquake',
-        'location': 'Warsaw',
-        'additional_info': 'nothing was the same ever since'
-    },
-    {
-        'date': '2000.01.01 00:00',
-        'type': 'earthquake',
-        'location': 'World',
-        'additional_info': 'Millenium bug'
-    },   
-    {
-        'date': '2010.10.10 15:30',
-        'type': 'earthquake',
-        'location': 'Berlin',
-        'additional_info': 'test data'
-    },
-]
-
 
 # routing
 @app.route('/test')
@@ -42,6 +20,14 @@ def json_ping():
 
 @app.route('/disasters', methods=['GET'])
 def all_disasters():
+    dis_type = []
+    ## TODO return stuff dependant on the selected types
+    param_list = request.args.get('type')
+    print(param_list)
+    dis_type = param_list.split(",")
+    get_data(dis_type)
+    with open('disasters.json', encoding="utf-8") as disasters_file:
+        DISASTERS = json.load(disasters_file)
     return jsonify({
         'status': 'success',
         'disasters': DISASTERS

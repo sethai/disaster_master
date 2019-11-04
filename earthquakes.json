@@ -1,5 +1,161 @@
 [
     {
+        "time": 1572869640231,
+        "place": "114km SSW of Kaktovik, Alaska",
+        "mag": 2.1,
+        "significant": 68,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            69.1461,
+            -144.4318
+        ]
+    },
+    {
+        "time": 1572868289910,
+        "place": "23km ESE of Ridgecrest, CA",
+        "mag": 1.31,
+        "significant": 26,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            35.5400009,
+            -117.4410019
+        ]
+    },
+    {
+        "time": 1572866390962,
+        "place": "62km S of Cantwell, Alaska",
+        "mag": 1.8,
+        "significant": 50,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            62.8311,
+            -148.8413
+        ]
+    },
+    {
+        "time": 1572866349305,
+        "place": "58km NNW of Talkeetna, Alaska",
+        "mag": 1.6,
+        "significant": 39,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            62.8263,
+            -150.4435
+        ]
+    },
+    {
+        "time": 1572865725130,
+        "place": "5km S of Pahala, Hawaii",
+        "mag": 1.89,
+        "significant": 55,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            19.1583328,
+            -155.4708405
+        ]
+    },
+    {
+        "time": 1572865363340,
+        "place": "5km SSE of Pahala, Hawaii",
+        "mag": 1.94,
+        "significant": 58,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            19.1591663,
+            -155.4555054
+        ]
+    },
+    {
+        "time": 1572864594420,
+        "place": "14km SSW of Searles Valley, CA",
+        "mag": 1.09,
+        "significant": 18,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            35.6520004,
+            -117.4553299
+        ]
+    },
+    {
+        "time": 1572864479180,
+        "place": "16km SSW of Olancha, CA",
+        "mag": 1.23,
+        "significant": 23,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            36.1525,
+            -118.0703333
+        ]
+    },
+    {
+        "time": 1572864169220,
+        "place": "13km WNW of Morongo Valley, CA",
+        "mag": 1.12,
+        "significant": 19,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            34.0764999,
+            -116.7193298
+        ]
+    },
+    {
+        "time": 1572864083860,
+        "place": "12km SE of Olancha, CA",
+        "mag": 1.72,
+        "significant": 46,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            36.2143333,
+            -117.8993333
+        ]
+    },
+    {
+        "time": 1572863889190,
+        "place": "11km SE of Mammoth Lakes, CA",
+        "mag": 1.15,
+        "significant": 20,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            37.5735016,
+            -118.8828354
+        ]
+    },
+    {
+        "time": 1572863482930,
+        "place": "21km ESE of Little Lake, CA",
+        "mag": 1.49,
+        "significant": 34,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            35.8618333,
+            -117.6903333
+        ]
+    },
+    {
+        "time": 1572863413107,
+        "place": "118km S of Novyy Uoyan, Russia",
+        "mag": 4.9,
+        "significant": 369,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            55.0912,
+            111.6546
+        ]
+    },
+    {
         "time": 1572861255990,
         "place": "16km SSW of Olancha, CA",
         "mag": 1.21,
@@ -72,6 +228,18 @@
         ]
     },
     {
+        "time": 1572857857090,
+        "place": "64km N of Isabela, Puerto Rico",
+        "mag": 2.73,
+        "significant": 115,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            19.0733,
+            -66.9203
+        ]
+    },
+    {
         "time": 1572857310360,
         "place": "5km E of Pahala, Hawaii",
         "mag": 1.8,
@@ -117,6 +285,18 @@
         "location": [
             36.16839218,
             -96.93425751
+        ]
+    },
+    {
+        "time": 1572855185220,
+        "place": "66km N of Tierras Nuevas Poniente, Puerto Rico",
+        "mag": 1.93,
+        "significant": 57,
+        "tsunami_warning": false,
+        "type": "earthquake",
+        "location": [
+            19.0665,
+            -66.4736
         ]
     },
     {
@@ -483,7 +663,7 @@
         "time": 1572839469045,
         "place": "0km SW of Wyomissing Hills, Pennsylvania",
         "mag": 1.6,
-        "significant": 57,
+        "significant": 62,
         "tsunami_warning": false,
         "type": "earthquake",
         "location": [
@@ -771,7 +951,7 @@
         "time": 1572826720970,
         "place": "51km SSW of Bandar-e Lengeh, Iran",
         "mag": 4.2,
-        "significant": 271,
+        "significant": 272,
         "tsunami_warning": false,
         "type": "earthquake",
         "location": [
@@ -2229,258 +2409,6 @@
         "location": [
             19.2971,
             -67.6701
-        ]
-    },
-    {
-        "time": 1572785487710,
-        "place": "14km ENE of Ridgecrest, CA",
-        "mag": 1.04,
-        "significant": 17,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            35.6668333,
-            -117.5251667
-        ]
-    },
-    {
-        "time": 1572785385148,
-        "place": "50km SE of Larsen Bay, Alaska",
-        "mag": 2.2,
-        "significant": 74,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            57.28,
-            -153.2978
-        ]
-    },
-    {
-        "time": 1572784959750,
-        "place": "18km ESE of Little Lake, CA",
-        "mag": 1.25,
-        "significant": 24,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            35.8721667,
-            -117.7195
-        ]
-    },
-    {
-        "time": 1572784862072,
-        "place": "32km S of Jarm, Afghanistan",
-        "mag": 4.3,
-        "significant": 284,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            36.5707,
-            70.8286
-        ]
-    },
-    {
-        "time": 1572784590890,
-        "place": "12km WSW of Searles Valley, CA",
-        "mag": 1.46,
-        "significant": 33,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            35.7276667,
-            -117.5273333
-        ]
-    },
-    {
-        "time": 1572784258280,
-        "place": "57km NNW of Isabela, Puerto Rico",
-        "mag": 3.12,
-        "significant": 150,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            19.0041,
-            -67.1628
-        ]
-    },
-    {
-        "time": 1572783986450,
-        "place": "6km E of Bainbridge Island, Washington",
-        "mag": 0.99,
-        "significant": 15,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            47.6183333333333,
-            -122.432333333333
-        ]
-    },
-    {
-        "time": 1572783297184,
-        "place": "2km N of Houston, Alaska",
-        "mag": 2.9,
-        "significant": 132,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            61.6308,
-            -149.7228
-        ]
-    },
-    {
-        "time": 1572781925160,
-        "place": "3km SSE of Pahala, Hawaii",
-        "mag": 2.11,
-        "significant": 68,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            19.1743336,
-            -155.4608307
-        ]
-    },
-    {
-        "time": 1572781860056,
-        "place": "46km WSW of Anchorage, Alaska",
-        "mag": 1.2,
-        "significant": 22,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            61.1331,
-            -150.7383
-        ]
-    },
-    {
-        "time": 1572781253450,
-        "place": "21km N of Charlotte Amalie, U.S. Virgin Islands",
-        "mag": 2.64,
-        "significant": 107,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            18.5396,
-            -64.9441
-        ]
-    },
-    {
-        "time": 1572781087430,
-        "place": "2km ESE of Pahala, Hawaii",
-        "mag": 1.96,
-        "significant": 59,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            19.1956673,
-            -155.454834
-        ]
-    },
-    {
-        "time": 1572780949045,
-        "place": "32km NNE of Coalgate, Oklahoma",
-        "mag": 2.02,
-        "significant": 63,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            34.81846237,
-            -96.11940002
-        ]
-    },
-    {
-        "time": 1572780669840,
-        "place": "7km ESE of Lares, Puerto Rico",
-        "mag": 2.1,
-        "significant": 68,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            18.2686,
-            -66.8113
-        ]
-    },
-    {
-        "time": 1572780354861,
-        "place": "13km S of Valdez, Alaska",
-        "mag": 1.5,
-        "significant": 35,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            61.0139,
-            -146.3896
-        ]
-    },
-    {
-        "time": 1572779293016,
-        "place": "58km W of Anchor Point, Alaska",
-        "mag": 2,
-        "significant": 62,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            59.8022,
-            -152.8754
-        ]
-    },
-    {
-        "time": 1572779103940,
-        "place": "4km SSE of Pahala, Hawaii",
-        "mag": 1.86,
-        "significant": 53,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            19.1636658,
-            -155.4678345
-        ]
-    },
-    {
-        "time": 1572778525474,
-        "place": "98km NNW of Talkeetna, Alaska",
-        "mag": 2.3,
-        "significant": 81,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            63.1301,
-            -150.8867
-        ]
-    },
-    {
-        "time": 1572778101378,
-        "place": "47km N of Yakutat, Alaska",
-        "mag": 1.4,
-        "significant": 30,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            59.9736,
-            -139.6302
-        ]
-    },
-    {
-        "time": 1572777714280,
-        "place": "12km WSW of Searles Valley, CA",
-        "mag": 1.27,
-        "significant": 25,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            35.71,
-            -117.5128333
-        ]
-    },
-    {
-        "time": 1572777489800,
-        "place": "11km SSW of Manton, CA",
-        "mag": 3.1,
-        "significant": 150,
-        "tsunami_warning": false,
-        "type": "earthquake",
-        "location": [
-            40.3261681,
-            -121.9126663
         ]
     }
 ]

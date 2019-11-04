@@ -1,5 +1,83 @@
 [
     {
+        "date": "13:14, 11/04/2019",
+        "type": "earthquake",
+        "location": "114km SSW of Kaktovik, Alaska",
+        "additional_info": "Magnitude: 2.1, Significant level: 68"
+    },
+    {
+        "date": "12:51, 11/04/2019",
+        "type": "earthquake",
+        "location": "23km ESE of Ridgecrest, CA",
+        "additional_info": "Magnitude: 1.3, Significant level: 26"
+    },
+    {
+        "date": "12:19, 11/04/2019",
+        "type": "earthquake",
+        "location": "62km S of Cantwell, Alaska",
+        "additional_info": "Magnitude: 1.8, Significant level: 50"
+    },
+    {
+        "date": "12:19, 11/04/2019",
+        "type": "earthquake",
+        "location": "58km NNW of Talkeetna, Alaska",
+        "additional_info": "Magnitude: 1.6, Significant level: 39"
+    },
+    {
+        "date": "12:08, 11/04/2019",
+        "type": "earthquake",
+        "location": "5km S of Pahala, Hawaii",
+        "additional_info": "Magnitude: 1.9, Significant level: 55"
+    },
+    {
+        "date": "12:02, 11/04/2019",
+        "type": "earthquake",
+        "location": "5km SSE of Pahala, Hawaii",
+        "additional_info": "Magnitude: 1.9, Significant level: 58"
+    },
+    {
+        "date": "11:49, 11/04/2019",
+        "type": "earthquake",
+        "location": "14km SSW of Searles Valley, CA",
+        "additional_info": "Magnitude: 1.1, Significant level: 18"
+    },
+    {
+        "date": "11:47, 11/04/2019",
+        "type": "earthquake",
+        "location": "16km SSW of Olancha, CA",
+        "additional_info": "Magnitude: 1.2, Significant level: 23"
+    },
+    {
+        "date": "11:42, 11/04/2019",
+        "type": "earthquake",
+        "location": "13km WNW of Morongo Valley, CA",
+        "additional_info": "Magnitude: 1.1, Significant level: 19"
+    },
+    {
+        "date": "11:41, 11/04/2019",
+        "type": "earthquake",
+        "location": "12km SE of Olancha, CA",
+        "additional_info": "Magnitude: 1.7, Significant level: 46"
+    },
+    {
+        "date": "11:38, 11/04/2019",
+        "type": "earthquake",
+        "location": "11km SE of Mammoth Lakes, CA",
+        "additional_info": "Magnitude: 1.1, Significant level: 20"
+    },
+    {
+        "date": "11:31, 11/04/2019",
+        "type": "earthquake",
+        "location": "21km ESE of Little Lake, CA",
+        "additional_info": "Magnitude: 1.5, Significant level: 34"
+    },
+    {
+        "date": "11:30, 11/04/2019",
+        "type": "earthquake",
+        "location": "118km S of Novyy Uoyan, Russia",
+        "additional_info": "Magnitude: 4.9, Significant level: 369"
+    },
+    {
         "date": "10:54, 11/04/2019",
         "type": "earthquake",
         "location": "16km SSW of Olancha, CA",
@@ -36,6 +114,12 @@
         "additional_info": "Magnitude: 1.3, Significant level: 26"
     },
     {
+        "date": "09:57, 11/04/2019",
+        "type": "earthquake",
+        "location": "64km N of Isabela, Puerto Rico",
+        "additional_info": "Magnitude: 2.7, Significant level: 115"
+    },
+    {
         "date": "09:48, 11/04/2019",
         "type": "earthquake",
         "location": "5km E of Pahala, Hawaii",
@@ -58,6 +142,12 @@
         "type": "earthquake",
         "location": "12km ENE of Stillwater, Oklahoma",
         "additional_info": "Magnitude: 2.0, Significant level: 62"
+    },
+    {
+        "date": "09:13, 11/04/2019",
+        "type": "earthquake",
+        "location": "66km N of Tierras Nuevas Poniente, Puerto Rico",
+        "additional_info": "Magnitude: 1.9, Significant level: 57"
     },
     {
         "date": "09:03, 11/04/2019",
@@ -243,7 +333,7 @@
         "date": "04:51, 11/04/2019",
         "type": "earthquake",
         "location": "0km SW of Wyomissing Hills, Pennsylvania",
-        "additional_info": "Magnitude: 1.6, Significant level: 57"
+        "additional_info": "Magnitude: 1.6, Significant level: 62"
     },
     {
         "date": "04:44, 11/04/2019",
@@ -387,7 +477,7 @@
         "date": "01:18, 11/04/2019",
         "type": "earthquake",
         "location": "51km SSW of Bandar-e Lengeh, Iran",
-        "additional_info": "Magnitude: 4.2, Significant level: 271"
+        "additional_info": "Magnitude: 4.2, Significant level: 272"
     },
     {
         "date": "01:13, 11/04/2019",
@@ -1114,131 +1204,5 @@
         "type": "earthquake",
         "location": "107km NW of San Antonio, Puerto Rico",
         "additional_info": "Magnitude: 2.0, Significant level: 63"
-    },
-    {
-        "date": "13:51, 11/03/2019",
-        "type": "earthquake",
-        "location": "14km ENE of Ridgecrest, CA",
-        "additional_info": "Magnitude: 1.0, Significant level: 17"
-    },
-    {
-        "date": "13:49, 11/03/2019",
-        "type": "earthquake",
-        "location": "50km SE of Larsen Bay, Alaska",
-        "additional_info": "Magnitude: 2.2, Significant level: 74"
-    },
-    {
-        "date": "13:42, 11/03/2019",
-        "type": "earthquake",
-        "location": "18km ESE of Little Lake, CA",
-        "additional_info": "Magnitude: 1.2, Significant level: 24"
-    },
-    {
-        "date": "13:41, 11/03/2019",
-        "type": "earthquake",
-        "location": "32km S of Jarm, Afghanistan",
-        "additional_info": "Magnitude: 4.3, Significant level: 284"
-    },
-    {
-        "date": "13:36, 11/03/2019",
-        "type": "earthquake",
-        "location": "12km WSW of Searles Valley, CA",
-        "additional_info": "Magnitude: 1.5, Significant level: 33"
-    },
-    {
-        "date": "13:30, 11/03/2019",
-        "type": "earthquake",
-        "location": "57km NNW of Isabela, Puerto Rico",
-        "additional_info": "Magnitude: 3.1, Significant level: 150"
-    },
-    {
-        "date": "13:26, 11/03/2019",
-        "type": "earthquake",
-        "location": "6km E of Bainbridge Island, Washington",
-        "additional_info": "Magnitude: 1.0, Significant level: 15"
-    },
-    {
-        "date": "13:14, 11/03/2019",
-        "type": "earthquake",
-        "location": "2km N of Houston, Alaska",
-        "additional_info": "Magnitude: 2.9, Significant level: 132"
-    },
-    {
-        "date": "12:52, 11/03/2019",
-        "type": "earthquake",
-        "location": "3km SSE of Pahala, Hawaii",
-        "additional_info": "Magnitude: 2.1, Significant level: 68"
-    },
-    {
-        "date": "12:51, 11/03/2019",
-        "type": "earthquake",
-        "location": "46km WSW of Anchorage, Alaska",
-        "additional_info": "Magnitude: 1.2, Significant level: 22"
-    },
-    {
-        "date": "12:40, 11/03/2019",
-        "type": "earthquake",
-        "location": "21km N of Charlotte Amalie, U.S. Virgin Islands",
-        "additional_info": "Magnitude: 2.6, Significant level: 107"
-    },
-    {
-        "date": "12:38, 11/03/2019",
-        "type": "earthquake",
-        "location": "2km ESE of Pahala, Hawaii",
-        "additional_info": "Magnitude: 2.0, Significant level: 59"
-    },
-    {
-        "date": "12:35, 11/03/2019",
-        "type": "earthquake",
-        "location": "32km NNE of Coalgate, Oklahoma",
-        "additional_info": "Magnitude: 2.0, Significant level: 63"
-    },
-    {
-        "date": "12:31, 11/03/2019",
-        "type": "earthquake",
-        "location": "7km ESE of Lares, Puerto Rico",
-        "additional_info": "Magnitude: 2.1, Significant level: 68"
-    },
-    {
-        "date": "12:25, 11/03/2019",
-        "type": "earthquake",
-        "location": "13km S of Valdez, Alaska",
-        "additional_info": "Magnitude: 1.5, Significant level: 35"
-    },
-    {
-        "date": "12:08, 11/03/2019",
-        "type": "earthquake",
-        "location": "58km W of Anchor Point, Alaska",
-        "additional_info": "Magnitude: 2, Significant level: 62"
-    },
-    {
-        "date": "12:05, 11/03/2019",
-        "type": "earthquake",
-        "location": "4km SSE of Pahala, Hawaii",
-        "additional_info": "Magnitude: 1.9, Significant level: 53"
-    },
-    {
-        "date": "11:55, 11/03/2019",
-        "type": "earthquake",
-        "location": "98km NNW of Talkeetna, Alaska",
-        "additional_info": "Magnitude: 2.3, Significant level: 81"
-    },
-    {
-        "date": "11:48, 11/03/2019",
-        "type": "earthquake",
-        "location": "47km N of Yakutat, Alaska",
-        "additional_info": "Magnitude: 1.4, Significant level: 30"
-    },
-    {
-        "date": "11:41, 11/03/2019",
-        "type": "earthquake",
-        "location": "12km WSW of Searles Valley, CA",
-        "additional_info": "Magnitude: 1.3, Significant level: 25"
-    },
-    {
-        "date": "11:38, 11/03/2019",
-        "type": "earthquake",
-        "location": "11km SSW of Manton, CA",
-        "additional_info": "Magnitude: 3.1, Significant level: 150"
     }
 ]

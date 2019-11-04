@@ -295,3 +295,8 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+### Project specific files ###
+# data jsons
+disasters.json
+earthquakes.json

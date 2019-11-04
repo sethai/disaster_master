@@ -4,7 +4,11 @@
             <div class ="col-sm-10">
                 <h1>Disaster Master</h1>
                 <br>
-                <input type="checkbox" checked v-model="sel_disaster" value="earthquake">earthquakes
+                <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" v-model="sel_disaster"
+                  value="earthquake" id="earthquake_id">
+                  <label class="custom-control-label" for="earthquake_id">earthquakes</label>
+                </div>
                 <br>
                 <button type="submit" @click="reload()" class="btn btn-outline-primary">
                   Refresh
@@ -45,7 +49,7 @@ export default {
   },
   methods: {
     getDisasters() {
-      const path = 'http://localhost:5000/disasters';
+      const path = '/disasters';
       const params = {
         type: this.sel_disaster.toString(),
       };

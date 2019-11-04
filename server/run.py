@@ -5,8 +5,14 @@ from flask_cors import CORS
 import json
 from models import *
 
-app = Flask(__name__)
+# configuration
+DEBUG = True
 
+# app instance
+app = Flask(__name__)
+app.config.from_object(__name__)
+
+# enable CORS
 CORS(app, resources={r'/*': {'origins': '*'}})
 
 # routing
@@ -35,4 +41,4 @@ def all_disasters():
 
 # debug
 if __name__=='__main__':
-    app.run(debug=True)
+    app.run()

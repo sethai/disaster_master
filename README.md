@@ -11,15 +11,16 @@ Service aggregates multiple nature disasters APIs (earthquakes, floods, nature f
 * React or Vue - will see ;)
 
 # TODO list
-* initial project structure
-* fetch data from one service (backend)
-* page for requesting the data (frontend)
-* display fetched data on a webpage (frontend)
-* upload fetched data to a DB (backend)
-* use DB for displaying data (backend)
-* add support for multiple data sources (backend)
-* pretify the display of data (frontend)
-* automate fetching data
-* multi user support
-* notifications / alerts
-* API for use with 3rd party clients
+- [x] initial project structure
+- [x] fetch data from one service (backend)
+- [x] page for requesting the data (frontend)
+- [x] display fetched data on a webpage (frontend)
+- [x] Use docker and heroku for deployment
+- [ ] upload fetched data to a DB (backend)
+- [ ] use DB for displaying data (backend)
+- [ ] add support for multiple data sources (backend)
+- [ ] pretify the display of data (frontend)
+- [ ] automate fetching data
+- [ ] multi user support
+- [ ] notifications / alerts
+- [ ] API for use with 3rd party clients
